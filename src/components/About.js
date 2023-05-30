@@ -50,7 +50,7 @@ function About() {
           image={jibonPic}
           email="jibonpaul@gmail.com"
           skillset={"JS, CSS, JavaScript, React, and others"}
-          bio="Jibon is a passionat developer with expertise in frontend technologies."
+          bio="Jibon is a passionate developer with expertise in frontend technologies."
         />
         <PersonCard
           name="Devin"
